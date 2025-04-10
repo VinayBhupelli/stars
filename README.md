@@ -3,7 +3,7 @@
 <!-- STARRED_REPOS_START -->
 ## Starred Repositories by Language
 
-*Total: 34 repositories across 9 languages*
+*Total: 33 repositories across 9 languages*
 
 ### Astro (1)
 
@@ -51,7 +51,7 @@
 - [omkarnath7989/TheAIShop](https://github.com/omkarnath7989/TheAIShop)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-### Unknown (12)
+### Unknown (11)
 
 - [bharadwaj221/edu.io](https://github.com/bharadwaj221/edu.io) - this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack
 - [Psingh12354/Aptitude](https://github.com/Psingh12354/Aptitude) - Aptitude Practice Questions
@@ -60,7 +60,6 @@
 - [shams-imran/books](https://github.com/shams-imran/books)
 - [armankhondker/best-system-design-resources](https://github.com/armankhondker/best-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources. 
 - [knapsack7/system-design-by-alex-xu](https://github.com/knapsack7/system-design-by-alex-xu)
-- [hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys) - Free VMware Workstation Pro 17 full license keys. We've meticulously organized thousands of keys, catering to all major versions of VMware Workstation Pro 17 Choose from our curated selection to enhance your virtualization experience.
 - [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
 - [cagefigter/awesome-piracy](https://github.com/cagefigter/awesome-piracy)
 - [cagefigter/awesome-cheatsheets-1](https://github.com/cagefigter/awesome-cheatsheets-1) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
